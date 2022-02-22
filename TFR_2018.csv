@@ -1,0 +1,916 @@
+zona91,year,value,CCAA,PROVINCIA,Regions
+101,2018,1.33,País Vasco,1,North-East
+102,2018,1.35,País Vasco,1,North-East
+201,2018,0.82,Castilla - La Mancha,2,Center
+202,2018,1.08,Castilla - La Mancha,2,Center
+203,2018,1.37,Castilla - La Mancha,2,Center
+204,2018,1.2,Castilla - La Mancha,2,Center
+205,2018,1.18,Castilla - La Mancha,2,Center
+206,2018,1.41,Castilla - La Mancha,2,Center
+207,2018,1.02,Castilla - La Mancha,2,Center
+301,2018,1.38,Comunitat Valenciana,3,North-West
+302,2018,1.73,Comunitat Valenciana,3,North-West
+303,2018,1.19,Comunitat Valenciana,3,North-West
+304,2018,1.45,Comunitat Valenciana,3,North-West
+305,2018,1.36,Comunitat Valenciana,3,North-West
+306,2018,1.39,Comunitat Valenciana,3,North-West
+307,2018,1.28,Comunitat Valenciana,3,North-West
+308,2018,1.04,Comunitat Valenciana,3,North-West
+309,2018,1.15,Comunitat Valenciana,3,North-West
+310,2018,1.21,Comunitat Valenciana,3,North-West
+311,2018,1.21,Comunitat Valenciana,3,North-West
+312,2018,1.23,Comunitat Valenciana,3,North-West
+313,2018,1.16,Comunitat Valenciana,3,North-West
+314,2018,1.21,Comunitat Valenciana,3,North-West
+315,2018,0.99,Comunitat Valenciana,3,North-West
+316,2018,1.2,Comunitat Valenciana,3,North-West
+317,2018,1.6,Comunitat Valenciana,3,North-West
+318,2018,1.5,Comunitat Valenciana,3,North-West
+401,2018,1.29,Andalucía,4,South
+402,2018,0.92,Andalucía,4,South
+403,2018,1.23,Andalucía,4,South
+404,2018,1.44,Andalucía,4,South
+405,2018,1.34,Andalucía,4,South
+406,2018,1.54,Andalucía,4,South
+407,2018,1.75,Andalucía,4,South
+408,2018,2.01,Andalucía,4,South
+409,2018,1.51,Andalucía,4,South
+410,2018,1.68,Andalucía,4,South
+501,2018,0.76,Castilla y León,5,Center
+502,2018,0.66,Castilla y León,5,Center
+503,2018,0.85,Castilla y León,5,Center
+504,2018,1.23,Castilla y León,5,Center
+505,2018,1.27,Castilla y León,5,Center
+506,2018,1.2,Castilla y León,5,Center
+601,2018,1.26,Extremadura,6,Center
+602,2018,1.09,Extremadura,6,Center
+603,2018,0.88,Extremadura,6,Center
+604,2018,1.11,Extremadura,6,Center
+605,2018,1.38,Extremadura,6,Center
+606,2018,1.23,Extremadura,6,Center
+607,2018,0.99,Extremadura,6,Center
+608,2018,1.29,Extremadura,6,Center
+609,2018,1.07,Extremadura,6,Center
+610,2018,1.2,Extremadura,6,Center
+611,2018,1.36,Extremadura,6,Center
+612,2018,1.21,Extremadura,6,Center
+613,2018,1.17,Extremadura,6,Center
+614,2018,1.03,Extremadura,6,Center
+615,2018,1.05,Extremadura,6,Center
+616,2018,0.99,Extremadura,6,Center
+617,2018,1.37,Extremadura,6,Center
+618,2018,1.03,Extremadura,6,Center
+619,2018,1.09,Extremadura,6,Center
+701,2018,1.08,Balears (Illes),7,North-West
+702,2018,1.12,Balears (Illes),7,North-West
+703,2018,1.45,Balears (Illes),7,North-West
+704,2018,1.26,Balears (Illes),7,North-West
+705,2018,1.49,Balears (Illes),7,North-West
+706,2018,1.31,Balears (Illes),7,North-West
+707,2018,1.41,Balears (Illes),7,North-West
+708,2018,1.11,Balears (Illes),7,North-West
+709,2018,1.37,Balears (Illes),7,North-West
+710,2018,1.71,Balears (Illes),7,North-West
+711,2018,1.22,Balears (Illes),7,North-West
+712,2018,1.53,Balears (Illes),7,North-West
+801,2018,1.49,Cataluña,8,North-West
+802,2018,1.53,Cataluña,8,North-West
+803,2018,1.32,Cataluña,8,North-West
+804,2018,1.2,Cataluña,8,North-West
+805,2018,1.16,Cataluña,8,North-West
+806,2018,1.25,Cataluña,8,North-West
+807,2018,1.16,Cataluña,8,North-West
+808,2018,1.41,Cataluña,8,North-West
+809,2018,1.63,Cataluña,8,North-West
+810,2018,1.16,Cataluña,8,North-West
+811,2018,1.47,Cataluña,8,North-West
+812,2018,1.28,Cataluña,8,North-West
+813,2018,1.31,Cataluña,8,North-West
+814,2018,1.27,Cataluña,8,North-West
+815,2018,1.24,Cataluña,8,North-West
+816,2018,1.36,Cataluña,8,North-West
+817,2018,1.21,Cataluña,8,North-West
+818,2018,1.19,Cataluña,8,North-West
+819,2018,1.38,Cataluña,8,North-West
+820,2018,1.35,Cataluña,8,North-West
+821,2018,1.31,Cataluña,8,North-West
+822,2018,1.3,Cataluña,8,North-West
+823,2018,1.09,Cataluña,8,North-West
+824,2018,1.27,Cataluña,8,North-West
+825,2018,1.47,Cataluña,8,North-West
+826,2018,1.19,Cataluña,8,North-West
+827,2018,1.32,Cataluña,8,North-West
+828,2018,1.31,Cataluña,8,North-West
+829,2018,1.25,Cataluña,8,North-West
+830,2018,1.47,Cataluña,8,North-West
+831,2018,1.45,Cataluña,8,North-West
+832,2018,1.33,Cataluña,8,North-West
+833,2018,1.28,Cataluña,8,North-West
+834,2018,1.3,Cataluña,8,North-West
+835,2018,1.42,Cataluña,8,North-West
+836,2018,1.18,Cataluña,8,North-West
+837,2018,1.28,Cataluña,8,North-West
+838,2018,1.2,Cataluña,8,North-West
+839,2018,1.3,Cataluña,8,North-West
+840,2018,1.36,Cataluña,8,North-West
+901,2018,1.13,Castilla y León,9,Center
+902,2018,0.98,Castilla y León,9,Center
+903,2018,0.87,Castilla y León,9,Center
+904,2018,1.19,Castilla y León,9,Center
+905,2018,0.89,Castilla y León,9,Center
+906,2018,1.13,Castilla y León,9,Center
+1001,2018,0.81,Extremadura,10,Center
+1002,2018,0.98,Extremadura,10,Center
+1003,2018,1.25,Extremadura,10,Center
+1004,2018,1.18,Extremadura,10,Center
+1005,2018,1.25,Extremadura,10,Center
+1006,2018,1.04,Extremadura,10,Center
+1007,2018,1.53,Extremadura,10,Center
+1008,2018,1.23,Extremadura,10,Center
+1009,2018,1.08,Extremadura,10,Center
+1010,2018,0.66,Extremadura,10,Center
+1011,2018,1.07,Extremadura,10,Center
+1012,2018,1.19,Extremadura,10,Center
+1013,2018,0.93,Extremadura,10,Center
+1014,2018,1.09,Extremadura,10,Center
+1036,2018,1.35,País Vasco,1,North-East
+1059,2018,1.32,País Vasco,1,North-East
+1101,2018,1.23,Andalucía,11,South
+1102,2018,1.29,Andalucía,11,South
+1103,2018,1.14,Andalucía,11,South
+1104,2018,1.22,Andalucía,11,South
+1105,2018,1.18,Andalucía,11,South
+1106,2018,1.17,Andalucía,11,South
+1107,2018,1.14,Andalucía,11,South
+1108,2018,1.28,Andalucía,11,South
+1201,2018,1.09,Comunitat Valenciana,12,North-West
+1202,2018,1.36,Comunitat Valenciana,12,North-West
+1202,2018,1.36,Comunitat Valenciana,46,North-West
+1203,2018,1.56,Comunitat Valenciana,12,North-West
+1204,2018,1.11,Comunitat Valenciana,12,North-West
+1205,2018,1.22,Comunitat Valenciana,12,North-West
+1206,2018,1.43,Comunitat Valenciana,12,North-West
+1207,2018,1.21,Comunitat Valenciana,12,North-West
+1208,2018,1.27,Comunitat Valenciana,12,North-West
+1209,2018,1.12,Comunitat Valenciana,12,North-West
+1301,2018,1.09,Castilla - La Mancha,13,Center
+1302,2018,1.15,Castilla - La Mancha,13,Center
+1303,2018,1.21,Castilla - La Mancha,13,Center
+1304,2018,1.23,Castilla - La Mancha,13,Center
+1305,2018,1.15,Castilla - La Mancha,13,Center
+1306,2018,1.21,Castilla - La Mancha,13,Center
+1307,2018,1.43,Castilla - La Mancha,13,Center
+1308,2018,1.21,Castilla - La Mancha,13,Center
+1309,2018,1.16,Castilla - La Mancha,13,Center
+1310,2018,0.98,Castilla - La Mancha,13,Center
+1311,2018,1.24,Castilla - La Mancha,13,Center
+1312,2018,0.96,Castilla - La Mancha,13,Center
+1313,2018,1.13,Castilla - La Mancha,13,Center
+1401,2018,1.2,Andalucía,14,South
+1402,2018,1.55,Andalucía,14,South
+1403,2018,1.2,Andalucía,14,South
+1404,2018,1.2,Andalucía,14,South
+1405,2018,1.18,Andalucía,14,South
+1406,2018,1.44,Andalucía,14,South
+1407,2018,1.46,Andalucía,14,South
+1408,2018,1.27,Andalucía,14,South
+1409,2018,1.08,Andalucía,14,South
+1410,2018,1.22,Andalucía,14,South
+1411,2018,1.09,Andalucía,14,South
+1412,2018,1.32,Andalucía,14,South
+1413,2018,1.22,Andalucía,14,South
+1414,2018,1.46,Andalucía,14,South
+1501,2018,0.9,Galicia,15,North-East
+1502,2018,0.67,Galicia,15,North-East
+1503,2018,0.75,Galicia,15,North-East
+1504,2018,0.9,Galicia,15,North-East
+1505,2018,0.87,Galicia,15,North-East
+1506,2018,0.93,Galicia,15,North-East
+1507,2018,1.21,Galicia,15,North-East
+1508,2018,1.16,Galicia,15,North-East
+1509,2018,1.04,Galicia,15,North-East
+1510,2018,1.13,Galicia,15,North-East
+1511,2018,0.95,Galicia,15,North-East
+1512,2018,0.98,Galicia,15,North-East
+1513,2018,0.9,Galicia,15,North-East
+1514,2018,0.66,Galicia,15,North-East
+1515,2018,1.14,Galicia,15,North-East
+1516,2018,0.88,Galicia,15,North-East
+1517,2018,1.07,Galicia,15,North-East
+1518,2018,1.06,Galicia,15,North-East
+1519,2018,1.16,Galicia,15,North-East
+1520,2018,1.05,Galicia,15,North-East
+1521,2018,0.96,Galicia,15,North-East
+1522,2018,1,Galicia,15,North-East
+1523,2018,0.91,Galicia,15,North-East
+1524,2018,1.11,Galicia,15,North-East
+1525,2018,1.13,Galicia,15,North-East
+1601,2018,1.05,Castilla - La Mancha,16,Center
+1602,2018,1.08,Castilla - La Mancha,16,Center
+1603,2018,0.99,Castilla - La Mancha,16,Center
+1604,2018,1.03,Castilla - La Mancha,16,Center
+1605,2018,1.37,Castilla - La Mancha,16,Center
+1606,2018,1.52,Castilla - La Mancha,16,Center
+1607,2018,1.21,Castilla - La Mancha,16,Center
+1608,2018,1.09,Castilla - La Mancha,16,Center
+1701,2018,1.26,Cataluña,17,North-West
+1702,2018,1.08,Cataluña,17,North-West
+1703,2018,1.45,Cataluña,17,North-West
+1704,2018,1.36,Cataluña,17,North-West
+1705,2018,1.36,Cataluña,17,North-West
+1706,2018,1.46,Cataluña,17,North-West
+1707,2018,1.5,Cataluña,17,North-West
+1708,2018,1.48,Cataluña,17,North-West
+1709,2018,1.42,Cataluña,17,North-West
+1710,2018,1.33,Cataluña,17,North-West
+1711,2018,1.1,Cataluña,17,North-West
+1712,2018,1.63,Cataluña,17,North-West
+1713,2018,1.26,Cataluña,17,North-West
+1714,2018,1.5,Cataluña,17,North-West
+1715,2018,1.4,Cataluña,17,North-West
+1801,2018,1.31,Andalucía,18,South
+1802,2018,1.26,Andalucía,18,South
+1803,2018,1.55,Andalucía,18,South
+1804,2018,1.27,Andalucía,18,South
+1805,2018,1.18,Andalucía,18,South
+1806,2018,1.1,Andalucía,18,South
+1807,2018,1.58,Andalucía,18,South
+1808,2018,1.21,Andalucía,18,South
+1809,2018,1.19,Andalucía,18,South
+1810,2018,1.19,Andalucía,18,South
+1811,2018,1.58,Andalucía,18,South
+1812,2018,1.22,Andalucía,18,South
+1813,2018,1.14,Andalucía,18,South
+1814,2018,1.65,Andalucía,18,South
+1815,2018,1.42,Andalucía,18,South
+1816,2018,1.25,Andalucía,18,South
+1817,2018,1.03,Andalucía,18,South
+1818,2018,1.42,Andalucía,18,South
+1819,2018,0.87,Andalucía,18,South
+1901,2018,1.29,Castilla - La Mancha,19,Center
+1902,2018,1.26,Castilla - La Mancha,19,Center
+1903,2018,1.32,Castilla - La Mancha,19,Center
+1904,2018,0.95,Castilla - La Mancha,19,Center
+2003,2018,1.26,Castilla - La Mancha,2,Center
+2009,2018,1.26,Castilla - La Mancha,2,Center
+2037,2018,1.27,Castilla - La Mancha,2,Center
+2081,2018,1.44,Castilla - La Mancha,2,Center
+2101,2018,1.13,Andalucía,21,South
+2102,2018,1.52,Andalucía,21,South
+2103,2018,0.78,Andalucía,21,South
+2104,2018,1.04,Andalucía,21,South
+2105,2018,1,Andalucía,21,South
+2106,2018,1.11,Andalucía,21,South
+2107,2018,1.17,Andalucía,21,South
+2108,2018,1.43,Andalucía,21,South
+2109,2018,1.32,Andalucía,21,South
+2110,2018,1.25,Andalucía,21,South
+2111,2018,1.39,Andalucía,21,South
+2112,2018,1.22,Andalucía,21,South
+2113,2018,1.24,Andalucía,21,South
+2201,2018,1.13,Aragón,22,North-West
+2202,2018,1.14,Aragón,22,North-West
+2203,2018,1.03,Aragón,22,North-West
+2204,2018,1.28,Aragón,22,North-West
+2205,2018,1.46,Aragón,22,North-West
+2206,2018,1.25,Aragón,22,North-West
+2207,2018,1.77,Aragón,22,North-West
+2208,2018,1.2,Aragón,22,North-West
+2301,2018,1.33,Andalucía,23,South
+2302,2018,1.4,Andalucía,23,South
+2303,2018,1.09,Andalucía,23,South
+2304,2018,1.14,Andalucía,23,South
+2305,2018,1.46,Andalucía,23,South
+2306,2018,1.43,Andalucía,23,South
+2307,2018,1.13,Andalucía,23,South
+2308,2018,1.23,Andalucía,23,South
+2309,2018,1.28,Andalucía,23,South
+2310,2018,1.16,Andalucía,23,South
+2311,2018,1.31,Andalucía,23,South
+2312,2018,1.14,Andalucía,23,South
+2313,2018,1.23,Andalucía,23,South
+2314,2018,1.04,Andalucía,23,South
+2315,2018,1.07,Andalucía,23,South
+2316,2018,1.31,Andalucía,23,South
+2317,2018,1.34,Andalucía,23,South
+2401,2018,0.86,Castilla y León,24,Center
+2402,2018,1.25,Castilla y León,24,Center
+2403,2018,0.81,Castilla y León,24,Center
+2404,2018,0.86,Castilla y León,24,Center
+2405,2018,0.8,Castilla y León,24,Center
+2406,2018,0.63,Castilla y León,24,Center
+2407,2018,0.56,Castilla y León,24,Center
+2408,2018,0.94,Castilla y León,24,Center
+2409,2018,1.02,Castilla y León,24,Center
+2410,2018,1.05,Castilla y León,24,Center
+2411,2018,0.79,Castilla y León,24,Center
+2412,2018,1.02,Castilla y León,24,Center
+2413,2018,1.36,Castilla y León,24,Center
+2414,2018,0.92,Castilla y León,24,Center
+2415,2018,0.69,Castilla y León,24,Center
+2501,2018,1.2,Cataluña,25,North-West
+2502,2018,1.1,Cataluña,25,North-West
+2503,2018,1,Cataluña,25,North-West
+2504,2018,1.36,Cataluña,25,North-West
+2505,2018,1.56,Cataluña,25,North-West
+2506,2018,1.35,Cataluña,25,North-West
+2507,2018,1.55,Cataluña,25,North-West
+2508,2018,1.38,Cataluña,25,North-West
+2509,2018,1.43,Cataluña,25,North-West
+2510,2018,1.25,Cataluña,25,North-West
+2511,2018,1.44,Cataluña,25,North-West
+2601,2018,1.1,Rioja (La),26,North-East
+2602,2018,1.17,Rioja (La),26,North-East
+2603,2018,1.33,Rioja (La),26,North-East
+2604,2018,1.32,Rioja (La),26,North-East
+2605,2018,1.08,Rioja (La),26,North-East
+2606,2018,1.41,Rioja (La),26,North-East
+2701,2018,0.73,Galicia,27,North-East
+2702,2018,0.99,Galicia,27,North-East
+2703,2018,0.98,Galicia,27,North-East
+2704,2018,0.82,Galicia,27,North-East
+2705,2018,1.13,Galicia,27,North-East
+2706,2018,1.01,Galicia,27,North-East
+2707,2018,1.06,Galicia,27,North-East
+2708,2018,1.1,Galicia,27,North-East
+2709,2018,0.68,Galicia,27,North-East
+2710,2018,0.92,Galicia,27,North-East
+2711,2018,1.29,Galicia,27,North-East
+2712,2018,0.91,Galicia,27,North-East
+2713,2018,0.94,Galicia,27,North-East
+2801,2018,1.46,Madrid (Comunidad de),28,Center
+2802,2018,1.21,Madrid (Comunidad de),28,Center
+2803,2018,1.27,Madrid (Comunidad de),28,Center
+2804,2018,1.19,Madrid (Comunidad de),28,Center
+2805,2018,1.26,Madrid (Comunidad de),28,Center
+2806,2018,1.21,Madrid (Comunidad de),28,Center
+2807,2018,1.2,Madrid (Comunidad de),28,Center
+2808,2018,1.24,Madrid (Comunidad de),28,Center
+2809,2018,1.31,Madrid (Comunidad de),28,Center
+2810,2018,1.29,Madrid (Comunidad de),28,Center
+2811,2018,1.5,Madrid (Comunidad de),28,Center
+2812,2018,1.31,Madrid (Comunidad de),28,Center
+2813,2018,1.23,Madrid (Comunidad de),28,Center
+2814,2018,1.43,Madrid (Comunidad de),28,Center
+2815,2018,1.35,Madrid (Comunidad de),28,Center
+2901,2018,1.29,Andalucía,29,South
+2902,2018,1.2,Andalucía,29,South
+2903,2018,1.15,Andalucía,29,South
+2904,2018,1.27,Andalucía,29,South
+2905,2018,1.19,Andalucía,29,South
+2906,2018,1.16,Andalucía,29,South
+2907,2018,1.09,Andalucía,29,South
+2908,2018,1.14,Andalucía,29,South
+2909,2018,1.31,Andalucía,29,South
+2910,2018,1.19,Andalucía,29,South
+2911,2018,1.33,Andalucía,29,South
+2912,2018,1.48,Andalucía,29,South
+3009,2018,1.25,Comunitat Valenciana,3,North-West
+3014,2018,1.23,Comunitat Valenciana,3,North-West
+3031,2018,1.08,Comunitat Valenciana,3,North-West
+3059,2018,1.44,Comunitat Valenciana,3,North-West
+3063,2018,1.29,Comunitat Valenciana,3,North-West
+3065,2018,1.28,Comunitat Valenciana,3,North-West
+3066,2018,1.21,Comunitat Valenciana,3,North-West
+3079,2018,1.13,Comunitat Valenciana,3,North-West
+3093,2018,1.07,Comunitat Valenciana,3,North-West
+3099,2018,1.21,Comunitat Valenciana,3,North-West
+3104,2018,0.9,Comunitat Valenciana,3,North-West
+3122,2018,1.04,Comunitat Valenciana,3,North-West
+3133,2018,1.26,Comunitat Valenciana,3,North-West
+3139,2018,1.24,Comunitat Valenciana,3,North-West
+3140,2018,1.17,Comunitat Valenciana,3,North-West
+3201,2018,0.68,Galicia,32,North-East
+3202,2018,0.51,Galicia,32,North-East
+3203,2018,1.05,Galicia,32,North-East
+3204,2018,1.07,Galicia,32,North-East
+3205,2018,0.91,Galicia,32,North-East
+3206,2018,0.85,Galicia,32,North-East
+3207,2018,0.84,Galicia,32,North-East
+3208,2018,0.85,Galicia,32,North-East
+3209,2018,0.61,Galicia,32,North-East
+3210,2018,0.83,Galicia,32,North-East
+3211,2018,0.86,Galicia,32,North-East
+3212,2018,0.98,Galicia,32,North-East
+3301,2018,0.88,Asturias (Principado de),33,North-East
+3302,2018,1.1,Asturias (Principado de),33,North-East
+3303,2018,1.02,Asturias (Principado de),33,North-East
+3304,2018,1,Asturias (Principado de),33,North-East
+3305,2018,1.09,Asturias (Principado de),33,North-East
+3306,2018,0.99,Asturias (Principado de),33,North-East
+3307,2018,1.05,Asturias (Principado de),33,North-East
+3308,2018,1.18,Asturias (Principado de),33,North-East
+3309,2018,1.1,Asturias (Principado de),33,North-East
+3310,2018,0.91,Asturias (Principado de),33,North-East
+3311,2018,1.13,Asturias (Principado de),33,North-East
+3312,2018,0.94,Asturias (Principado de),33,North-East
+3313,2018,0.98,Asturias (Principado de),33,North-East
+3314,2018,1.09,Asturias (Principado de),33,North-East
+3315,2018,0.76,Asturias (Principado de),33,North-East
+3316,2018,0.74,Asturias (Principado de),33,North-East
+3401,2018,0.76,Castilla y León,34,Center
+3402,2018,0.71,Castilla y León,34,Center
+3403,2018,1.02,Castilla y León,34,Center
+3404,2018,1.14,Castilla y León,34,Center
+3405,2018,1.43,Castilla y León,34,Center
+3501,2018,0.98,Canarias,35,Canarias
+3502,2018,0.79,Canarias,35,Canarias
+3503,2018,0.85,Canarias,35,Canarias
+3504,2018,1.02,Canarias,35,Canarias
+3505,2018,0.71,Canarias,35,Canarias
+3506,2018,1.08,Canarias,35,Canarias
+3507,2018,1.16,Canarias,35,Canarias
+3601,2018,1.04,Galicia,36,North-East
+3602,2018,0.88,Galicia,36,North-East
+3603,2018,1.05,Galicia,36,North-East
+3604,2018,1.17,Galicia,36,North-East
+3605,2018,1.02,Galicia,36,North-East
+3606,2018,1.07,Galicia,36,North-East
+3607,2018,1.06,Galicia,36,North-East
+3608,2018,1.11,Galicia,36,North-East
+3609,2018,1.11,Galicia,36,North-East
+3610,2018,1.02,Galicia,36,North-East
+3611,2018,0.97,Galicia,36,North-East
+3612,2018,0.92,Galicia,36,North-East
+3613,2018,0.86,Galicia,36,North-East
+3614,2018,1.02,Galicia,36,North-East
+3615,2018,1,Galicia,36,North-East
+3616,2018,1.06,Galicia,36,North-East
+3617,2018,0.96,Galicia,36,North-East
+3701,2018,1.1,Castilla y León,37,Center
+3702,2018,0.73,Castilla y León,37,Center
+3703,2018,0.81,Castilla y León,37,Center
+3704,2018,0.94,Castilla y León,37,Center
+3705,2018,0.72,Castilla y León,37,Center
+3706,2018,1.2,Castilla y León,37,Center
+3707,2018,1.18,Castilla y León,37,Center
+3708,2018,0.96,Castilla y León,37,Center
+3709,2018,0.92,Castilla y León,37,Center
+3801,2018,0.85,Canarias,38,Canarias
+3802,2018,0.99,Canarias,38,Canarias
+3803,2018,1.08,Canarias,38,Canarias
+3804,2018,0.87,Canarias,38,Canarias
+3805,2018,0.94,Canarias,38,Canarias
+3806,2018,1.06,Canarias,38,Canarias
+3807,2018,0.98,Canarias,38,Canarias
+3808,2018,1.06,Canarias,38,Canarias
+3809,2018,1.2,Canarias,38,Canarias
+3810,2018,1,Canarias,38,Canarias
+3811,2018,1.22,Canarias,38,Canarias
+4003,2018,1.56,Andalucía,4,South
+4013,2018,1.49,Andalucía,4,South
+4079,2018,1.48,Andalucía,4,South
+4201,2018,1.12,Castilla y León,42,Center
+4202,2018,1.13,Castilla y León,42,Center
+4203,2018,1.35,Castilla y León,42,Center
+4301,2018,1.22,Cataluña,43,North-West
+4302,2018,1.19,Cataluña,43,North-West
+4303,2018,1.3,Cataluña,43,North-West
+4304,2018,1.12,Cataluña,43,North-West
+4305,2018,1.29,Cataluña,43,North-West
+4306,2018,1.35,Cataluña,43,North-West
+4307,2018,1.37,Cataluña,43,North-West
+4308,2018,1.33,Cataluña,43,North-West
+4309,2018,1.34,Cataluña,43,North-West
+4310,2018,1.4,Cataluña,43,North-West
+4311,2018,1.17,Cataluña,43,North-West
+4312,2018,1.31,Cataluña,43,North-West
+4313,2018,1.35,Cataluña,43,North-West
+4401,2018,1.3,Aragón,44,North-West
+4402,2018,1.25,Aragón,44,North-West
+4403,2018,1.07,Aragón,44,North-West
+4404,2018,1.55,Aragón,44,North-West
+4405,2018,1.25,Aragón,44,North-West
+4501,2018,1.34,Castilla - La Mancha,45,Center
+4502,2018,1.36,Castilla - La Mancha,45,Center
+4503,2018,0.96,Castilla - La Mancha,45,Center
+4504,2018,1.16,Castilla - La Mancha,45,Center
+4505,2018,1.26,Castilla - La Mancha,45,Center
+4506,2018,1.44,Castilla - La Mancha,45,Center
+4507,2018,1.44,Castilla - La Mancha,45,Center
+4508,2018,1.36,Castilla - La Mancha,45,Center
+4509,2018,1.41,Castilla - La Mancha,45,Center
+4510,2018,1.46,Castilla - La Mancha,45,Center
+4511,2018,1.31,Castilla - La Mancha,45,Center
+4512,2018,1.3,Castilla - La Mancha,45,Center
+4513,2018,1.31,Castilla - La Mancha,45,Center
+4514,2018,1.24,Castilla - La Mancha,45,Center
+4515,2018,1.12,Castilla - La Mancha,45,Center
+4516,2018,1.17,Castilla - La Mancha,45,Center
+4517,2018,1.06,Castilla - La Mancha,45,Center
+4518,2018,1.33,Castilla - La Mancha,45,Center
+4601,2018,1.14,Comunitat Valenciana,46,North-West
+4602,2018,1.14,Comunitat Valenciana,46,North-West
+4603,2018,1.28,Comunitat Valenciana,46,North-West
+4604,2018,1.18,Comunitat Valenciana,46,North-West
+4605,2018,1.43,Comunitat Valenciana,46,North-West
+4606,2018,1.11,Comunitat Valenciana,46,North-West
+4607,2018,1.16,Comunitat Valenciana,46,North-West
+4608,2018,1.29,Comunitat Valenciana,46,North-West
+4609,2018,1.16,Comunitat Valenciana,46,North-West
+4610,2018,1.14,Comunitat Valenciana,46,North-West
+4611,2018,1.05,Comunitat Valenciana,46,North-West
+4612,2018,1.06,Comunitat Valenciana,46,North-West
+4613,2018,1.05,Comunitat Valenciana,46,North-West
+4614,2018,1.1,Comunitat Valenciana,46,North-West
+4615,2018,1.23,Comunitat Valenciana,46,North-West
+4616,2018,1.22,Comunitat Valenciana,46,North-West
+4617,2018,1.17,Comunitat Valenciana,46,North-West
+4618,2018,1.31,Comunitat Valenciana,46,North-West
+4619,2018,1.1,Comunitat Valenciana,46,North-West
+4620,2018,1.28,Comunitat Valenciana,46,North-West
+4621,2018,1.13,Comunitat Valenciana,46,North-West
+4622,2018,1.4,Comunitat Valenciana,46,North-West
+4623,2018,1.13,Comunitat Valenciana,46,North-West
+4624,2018,1.2,Comunitat Valenciana,46,North-West
+4625,2018,1.27,Comunitat Valenciana,46,North-West
+4626,2018,1.17,Comunitat Valenciana,46,North-West
+4627,2018,1.28,Comunitat Valenciana,46,North-West
+4628,2018,1.05,Comunitat Valenciana,46,North-West
+4629,2018,1.2,Comunitat Valenciana,46,North-West
+4630,2018,1.41,Comunitat Valenciana,46,North-West
+4631,2018,1.42,Comunitat Valenciana,46,North-West
+4632,2018,1.23,Comunitat Valenciana,46,North-West
+4701,2018,1.02,Castilla y León,47,Center
+4702,2018,0.91,Castilla y León,47,Center
+4703,2018,1.27,Castilla y León,47,Center
+4704,2018,1.1,Castilla y León,47,Center
+4705,2018,1.06,Castilla y León,47,Center
+4706,2018,1.11,Castilla y León,47,Center
+4707,2018,0.98,Castilla y León,47,Center
+4708,2018,1.09,Castilla y León,47,Center
+4801,2018,1.33,País Vasco,48,North-East
+4802,2018,0.99,País Vasco,48,North-East
+4803,2018,0.96,País Vasco,48,North-East
+4804,2018,1.11,País Vasco,48,North-East
+4805,2018,1.15,País Vasco,48,North-East
+4806,2018,1.25,País Vasco,48,North-East
+4807,2018,1.49,País Vasco,48,North-East
+4808,2018,1.39,País Vasco,48,North-East
+4809,2018,1.33,País Vasco,48,North-East
+4810,2018,1.34,País Vasco,48,North-East
+4811,2018,1.46,País Vasco,48,North-East
+4812,2018,1.31,País Vasco,48,North-East
+4813,2018,1.23,País Vasco,48,North-East
+4902,2018,1.87,Andalucía,4,South
+5008,2018,1.41,Aragón,50,North-West
+5019,2018,1.3,Castilla y León,5,Center
+6011,2018,1.58,Extremadura,6,Center
+6015,2018,1.22,Extremadura,6,Center
+6044,2018,1.38,Extremadura,6,Center
+6083,2018,1.28,Extremadura,6,Center
+6153,2018,1.17,Extremadura,6,Center
+7011,2018,1,Balears (Illes),7,North-West
+7015,2018,1.15,Balears (Illes),7,North-West
+7026,2018,1.18,Balears (Illes),7,North-West
+7027,2018,1.58,Balears (Illes),7,North-West
+7032,2018,1.27,Balears (Illes),7,North-West
+7033,2018,1.5,Balears (Illes),7,North-West
+7040,2018,1.2,Balears (Illes),7,North-West
+8015,2018,1.44,Cataluña,8,North-West
+8019,2018,1.11,Cataluña,8,North-West
+8056,2018,1.11,Cataluña,8,North-West
+8073,2018,1.34,Cataluña,8,North-West
+8077,2018,1.2,Cataluña,8,North-West
+8089,2018,1.33,Cataluña,8,North-West
+8096,2018,1.34,Cataluña,8,North-West
+8101,2018,1.33,Cataluña,8,North-West
+8102,2018,1.41,Cataluña,8,North-West
+8113,2018,1.6,Cataluña,8,North-West
+8121,2018,1.32,Cataluña,8,North-West
+8124,2018,1.21,Cataluña,8,North-West
+8125,2018,1.29,Cataluña,8,North-West
+8169,2018,1.4,Cataluña,8,North-West
+8172,2018,1.17,Cataluña,8,North-West
+8180,2018,1.35,Cataluña,8,North-West
+8184,2018,1.43,Cataluña,8,North-West
+8187,2018,1.38,Cataluña,8,North-West
+8194,2018,1.57,Cataluña,8,North-West
+8200,2018,1.36,Cataluña,8,North-West
+8205,2018,1.33,Cataluña,8,North-West
+8211,2018,1.02,Cataluña,8,North-West
+8217,2018,1.15,Cataluña,8,North-West
+8245,2018,1.39,Cataluña,8,North-West
+8252,2018,1.32,Cataluña,8,North-West
+8263,2018,1.4,Cataluña,8,North-West
+8266,2018,1.03,Cataluña,8,North-West
+8279,2018,1.4,Cataluña,8,North-West
+8298,2018,1.63,Cataluña,8,North-West
+8301,2018,1.22,Cataluña,8,North-West
+8305,2018,1.52,Cataluña,8,North-West
+8307,2018,1.24,Cataluña,8,North-West
+9018,2018,1.27,Castilla y León,9,Center
+9059,2018,1.22,Castilla y León,9,Center
+9219,2018,1.2,Castilla y León,9,Center
+10037,2018,1.13,Extremadura,10,Center
+10148,2018,1.37,Extremadura,10,Center
+11004,2018,1.36,Andalucía,11,South
+11006,2018,1.26,Andalucía,11,South
+11007,2018,1.27,Andalucía,11,South
+11012,2018,0.96,Andalucía,11,South
+11015,2018,1.31,Andalucía,11,South
+11020,2018,1.25,Andalucía,11,South
+11022,2018,1.68,Andalucía,11,South
+11027,2018,1.3,Andalucía,11,South
+11028,2018,1.15,Andalucía,11,South
+11030,2018,1.56,Andalucía,11,South
+11031,2018,1.11,Andalucía,11,South
+11032,2018,1.52,Andalucía,11,South
+11033,2018,1.41,Andalucía,11,South
+12032,2018,1.3,Comunitat Valenciana,12,North-West
+12040,2018,1.24,Comunitat Valenciana,12,North-West
+12126,2018,1.18,Comunitat Valenciana,12,North-West
+12135,2018,1.31,Comunitat Valenciana,12,North-West
+12138,2018,1.46,Comunitat Valenciana,12,North-West
+13005,2018,1.21,Castilla - La Mancha,13,Center
+13034,2018,1.18,Castilla - La Mancha,13,Center
+13071,2018,1.18,Castilla - La Mancha,13,Center
+13082,2018,1.36,Castilla - La Mancha,13,Center
+13087,2018,1.05,Castilla - La Mancha,13,Center
+14007,2018,1.47,Andalucía,14,South
+14013,2018,1.21,Andalucía,14,South
+14021,2018,1.23,Andalucía,14,South
+14038,2018,1.34,Andalucía,14,South
+14042,2018,1.2,Andalucía,14,South
+14055,2018,1.22,Andalucía,14,South
+14056,2018,1.44,Andalucía,14,South
+15019,2018,1.26,Galicia,15,North-East
+15030,2018,1.05,Galicia,15,North-East
+15036,2018,0.96,Galicia,15,North-East
+15054,2018,1.11,Galicia,15,North-East
+15073,2018,1.03,Galicia,15,North-East
+15078,2018,1.09,Galicia,15,North-East
+16078,2018,1.1,Castilla - La Mancha,16,Center
+17023,2018,1.15,Cataluña,17,North-West
+17066,2018,1.64,Cataluña,17,North-West
+17079,2018,1.34,Cataluña,17,North-West
+17114,2018,1.48,Cataluña,17,North-West
+17155,2018,2,Cataluña,17,North-West
+18017,2018,1.08,Andalucía,18,South
+18023,2018,1.42,Andalucía,18,South
+18087,2018,1.24,Andalucía,18,South
+18089,2018,1.01,Andalucía,18,South
+18105,2018,1.06,NA,NA,NA
+18122,2018,1.41,Andalucía,18,South
+18140,2018,1.29,Andalucía,18,South
+18158,2018,1.83,NA,NA,NA
+19130,2018,1.32,Castilla - La Mancha,19,Center
+20030,2018,1.44,País Vasco,20,North-East
+20045,2018,1.32,País Vasco,20,North-East
+20055,2018,1.16,País Vasco,20,North-East
+20067,2018,1.24,País Vasco,20,North-East
+20069,2018,1.19,País Vasco,20,North-East
+21041,2018,1.19,Andalucía,21,South
+22125,2018,1.43,Aragón,22,North-West
+23002,2018,1.28,Andalucía,23,South
+23005,2018,1.19,Andalucía,23,South
+23050,2018,1.23,Andalucía,23,South
+23055,2018,1.24,Andalucía,23,South
+23060,2018,1.32,Andalucía,23,South
+23092,2018,1.23,Andalucía,23,South
+24089,2018,1.14,Castilla y León,24,Center
+24115,2018,1.09,Castilla y León,24,Center
+24142,2018,1.03,Castilla y León,24,Center
+25120,2018,1.38,Cataluña,25,North-West
+26089,2018,1.17,Rioja (La),26,North-East
+27028,2018,1.16,Galicia,27,North-East
+27031,2018,1.32,Galicia,27,North-East
+28005,2018,1.19,Madrid (Comunidad de),28,Center
+28006,2018,1.17,Madrid (Comunidad de),28,Center
+28007,2018,1.24,Madrid (Comunidad de),28,Center
+28013,2018,1.35,Madrid (Comunidad de),28,Center
+28014,2018,1.37,Madrid (Comunidad de),28,Center
+28045,2018,1.34,Madrid (Comunidad de),28,Center
+28047,2018,1.23,Madrid (Comunidad de),28,Center
+28049,2018,1,Madrid (Comunidad de),28,Center
+28058,2018,1.13,Madrid (Comunidad de),28,Center
+28065,2018,1.4,Madrid (Comunidad de),28,Center
+28074,2018,1.19,Madrid (Comunidad de),28,Center
+28079,2018,1.2,Madrid (Comunidad de),28,Center
+28080,2018,1.3,Madrid (Comunidad de),28,Center
+28092,2018,1.27,Madrid (Comunidad de),28,Center
+28106,2018,1.49,Madrid (Comunidad de),28,Center
+28113,2018,1.34,Madrid (Comunidad de),28,Center
+28115,2018,1.25,Madrid (Comunidad de),28,Center
+28127,2018,1.24,Madrid (Comunidad de),28,Center
+28130,2018,1.17,Madrid (Comunidad de),28,Center
+28134,2018,1.35,Madrid (Comunidad de),28,Center
+28148,2018,1.33,Madrid (Comunidad de),28,Center
+29015,2018,1.23,Andalucía,29,South
+29025,2018,1.16,Andalucía,29,South
+29051,2018,1.22,Andalucía,29,South
+29054,2018,1.1,Andalucía,29,South
+29067,2018,1.24,Andalucía,29,South
+29069,2018,1.23,Andalucía,29,South
+29070,2018,1.3,Andalucía,29,South
+29084,2018,1.16,Andalucía,29,South
+29094,2018,1.31,Andalucía,29,South
+29901,2018,1.11,Andalucía,29,South
+30003,2018,1.47,Murcia (Región de),30,South
+30005,2018,1.49,Murcia (Región de),30,South
+30015,2018,1.36,Murcia (Región de),30,South
+30016,2018,1.5,Murcia (Región de),30,South
+30019,2018,1.47,Murcia (Región de),30,South
+30022,2018,1.55,Murcia (Región de),30,South
+30024,2018,1.56,Murcia (Región de),30,South
+30027,2018,1.45,Murcia (Región de),30,South
+30030,2018,1.45,Murcia (Región de),30,South
+30039,2018,1.6,Murcia (Región de),30,South
+30043,2018,1.37,Murcia (Región de),30,South
+31201,2018,1.26,Navarra (Comunidad Foral de),31,North-East
+31232,2018,1.39,Navarra (Comunidad Foral de),31,North-East
+32054,2018,0.94,Galicia,32,North-East
+33004,2018,0.96,Asturias (Principado de),33,North-East
+33016,2018,0.97,Asturias (Principado de),33,North-East
+33024,2018,0.99,Asturias (Principado de),33,North-East
+33031,2018,1.05,Asturias (Principado de),33,North-East
+33037,2018,0.99,Asturias (Principado de),33,North-East
+33044,2018,1,Asturias (Principado de),33,North-East
+33060,2018,0.93,Asturias (Principado de),33,North-East
+33066,2018,1.09,Asturias (Principado de),33,North-East
+34120,2018,1.12,Castilla y León,34,Center
+35004,2018,1.3,Canarias,35,Canarias
+35006,2018,0.9,Canarias,35,Canarias
+35009,2018,0.87,Canarias,35,Canarias
+35011,2018,1.12,Canarias,35,Canarias
+35016,2018,0.93,Canarias,35,Canarias
+35019,2018,0.87,Canarias,35,Canarias
+35022,2018,1.11,Canarias,35,Canarias
+35026,2018,0.94,Canarias,35,Canarias
+36008,2018,0.91,Galicia,36,North-East
+36017,2018,0.89,Galicia,36,North-East
+36024,2018,1,Galicia,36,North-East
+36026,2018,0.84,Galicia,36,North-East
+36038,2018,1.09,Galicia,36,North-East
+36045,2018,1.03,Galicia,36,North-East
+36057,2018,1.02,Galicia,36,North-East
+36060,2018,0.96,Galicia,36,North-East
+37274,2018,1.24,Castilla y León,37,Center
+38006,2018,1.07,Canarias,38,Canarias
+38022,2018,1.05,Canarias,38,Canarias
+38023,2018,0.89,Canarias,38,Canarias
+38026,2018,1.11,Canarias,38,Canarias
+38028,2018,1.03,Canarias,38,Canarias
+38031,2018,1.06,Canarias,38,Canarias
+38038,2018,0.94,Canarias,38,Canarias
+39016,2018,1.06,Cantabria,39,North-East
+39075,2018,1.06,Cantabria,39,North-East
+39087,2018,1.06,Cantabria,39,North-East
+40194,2018,1.15,Castilla y León,40,Center
+41004,2018,1.21,Andalucía,41,South
+41021,2018,1.28,Andalucía,41,South
+41024,2018,1.02,Andalucía,41,South
+41034,2018,1.38,Andalucía,41,South
+41038,2018,1.32,Andalucía,41,South
+41039,2018,1.47,Andalucía,41,South
+41053,2018,1.31,Andalucía,41,South
+41059,2018,1.24,Andalucía,41,South
+41065,2018,1.33,Andalucía,41,South
+41069,2018,1.5,Andalucía,41,South
+41081,2018,1.23,Andalucía,41,South
+41086,2018,1.64,Andalucía,41,South
+41091,2018,1.32,Andalucía,41,South
+41095,2018,1.3,Andalucía,41,South
+42173,2018,1.33,Castilla y León,42,Center
+43123,2018,1.43,Cataluña,43,North-West
+43148,2018,1.4,Cataluña,43,North-West
+43155,2018,1.58,Cataluña,43,North-West
+43161,2018,1.39,Cataluña,43,North-West
+44216,2018,1.19,Aragón,44,North-West
+45165,2018,1.3,Castilla - La Mancha,45,Center
+45168,2018,1.27,Castilla - La Mancha,45,Center
+46005,2018,1.23,Comunitat Valenciana,46,North-West
+46017,2018,1.16,Comunitat Valenciana,46,North-West
+46021,2018,1.17,Comunitat Valenciana,46,North-West
+46022,2018,1.11,Comunitat Valenciana,46,North-West
+46029,2018,1.45,Comunitat Valenciana,46,North-West
+46078,2018,1.03,Comunitat Valenciana,46,North-West
+46083,2018,1.12,Comunitat Valenciana,46,North-West
+46094,2018,1.17,Comunitat Valenciana,46,North-West
+46102,2018,1.13,Comunitat Valenciana,46,North-West
+46105,2018,1.25,Comunitat Valenciana,46,North-West
+46110,2018,1.26,Comunitat Valenciana,46,North-West
+46131,2018,1.28,Comunitat Valenciana,46,North-West
+46145,2018,1.25,Comunitat Valenciana,46,North-West
+46159,2018,1.19,Comunitat Valenciana,46,North-West
+46169,2018,1,Comunitat Valenciana,46,North-West
+46181,2018,1.17,Comunitat Valenciana,46,North-West
+46184,2018,1.06,Comunitat Valenciana,46,North-West
+46190,2018,1.32,Comunitat Valenciana,46,North-West
+46220,2018,1.23,Comunitat Valenciana,46,North-West
+46235,2018,1.23,Comunitat Valenciana,46,North-West
+46244,2018,1.3,Comunitat Valenciana,46,North-West
+46250,2018,1.18,Comunitat Valenciana,46,North-West
+47186,2018,1.17,Castilla y León,47,Center
+48013,2018,1.21,País Vasco,48,North-East
+48015,2018,1.1,País Vasco,48,North-East
+48020,2018,1.16,País Vasco,48,North-East
+48027,2018,1.34,País Vasco,48,North-East
+48036,2018,1.14,País Vasco,48,North-East
+48044,2018,1.03,País Vasco,48,North-East
+48054,2018,1.21,País Vasco,48,North-East
+48078,2018,1.02,País Vasco,48,North-East
+48082,2018,1.07,País Vasco,48,North-East
+48084,2018,1.15,País Vasco,48,North-East
+48902,2018,1.08,País Vasco,48,North-East
+49275,2018,1.12,Castilla y León,49,Center
+50297,2018,1.26,Aragón,50,North-West
+51001,2018,1.66,Ceuta,51,Ceuta&Melilla
+52001,2018,2.21,Melilla,52,Ceuta&Melilla
+200199,2018,1.38,País Vasco,20,North-East
+200299,2018,1.29,País Vasco,20,North-East
+200399,2018,1.25,País Vasco,20,North-East
+200499,2018,1.42,País Vasco,20,North-East
+200599,2018,1.51,País Vasco,20,North-East
+200699,2018,1.44,País Vasco,20,North-East
+200799,2018,1.43,País Vasco,20,North-East
+200899,2018,1.21,País Vasco,20,North-East
+200999,2018,1.22,País Vasco,20,North-East
+201099,2018,1.46,País Vasco,20,North-East
+201199,2018,1.14,País Vasco,20,North-East
+201299,2018,1.36,País Vasco,20,North-East
+201399,2018,1.49,País Vasco,20,North-East
+201499,2018,1.75,País Vasco,20,North-East
+201599,2018,1.72,País Vasco,20,North-East
+300199,2018,1.47,Murcia (Región de),30,South
+300299,2018,1.37,Murcia (Región de),30,South
+300399,2018,1.5,Murcia (Región de),30,South
+300499,2018,1.39,Murcia (Región de),30,South
+300599,2018,1.64,Murcia (Región de),30,South
+300699,2018,1.46,Murcia (Región de),30,South
+300799,2018,1.66,Murcia (Región de),30,South
+300899,2018,1.83,Murcia (Región de),30,South
+300999,2018,1.72,Murcia (Región de),30,South
+301099,2018,1.67,Murcia (Región de),30,South
+310199,2018,1.49,Navarra (Comunidad Foral de),31,North-East
+310299,2018,1.35,Navarra (Comunidad Foral de),31,North-East
+310399,2018,1.43,Navarra (Comunidad Foral de),31,North-East
+310499,2018,1.53,Navarra (Comunidad Foral de),31,North-East
+310599,2018,1.45,Navarra (Comunidad Foral de),31,North-East
+310699,2018,1.51,Navarra (Comunidad Foral de),31,North-East
+310799,2018,1.18,Navarra (Comunidad Foral de),31,North-East
+310899,2018,1.47,Navarra (Comunidad Foral de),31,North-East
+310999,2018,1.23,Navarra (Comunidad Foral de),31,North-East
+311099,2018,1.06,Navarra (Comunidad Foral de),31,North-East
+311199,2018,1.33,Navarra (Comunidad Foral de),31,North-East
+311299,2018,1.47,Navarra (Comunidad Foral de),31,North-East
+311399,2018,1.52,Navarra (Comunidad Foral de),31,North-East
+311499,2018,1.55,Navarra (Comunidad Foral de),31,North-East
+311599,2018,1.73,Navarra (Comunidad Foral de),31,North-East
+390199,2018,1.18,Cantabria,39,North-East
+390299,2018,0.95,Cantabria,39,North-East
+390399,2018,1.09,Cantabria,39,North-East
+390499,2018,1.21,Cantabria,39,North-East
+390599,2018,1.23,Cantabria,39,North-East
+390699,2018,1.07,Cantabria,39,North-East
+390799,2018,1.03,Cantabria,39,North-East
+390899,2018,1.09,Cantabria,39,North-East
+390999,2018,1.13,Cantabria,39,North-East
+391099,2018,0.98,Cantabria,39,North-East
+391199,2018,1.21,Cantabria,39,North-East
+391299,2018,1.32,Cantabria,39,North-East
+400199,2018,1,Castilla y León,40,Center
+400299,2018,1.51,Castilla y León,40,Center
+400399,2018,1.31,Castilla y León,40,Center
+400499,2018,1.3,Castilla y León,40,Center
+410199,2018,1.27,Andalucía,41,South
+410299,2018,1.4,Andalucía,41,South
+410399,2018,1.22,Andalucía,41,South
+410499,2018,1.44,Andalucía,41,South
+410599,2018,1.1,Andalucía,41,South
+410699,2018,1.4,Andalucía,41,South
+410799,2018,1.27,Andalucía,41,South
+410899,2018,1.38,Andalucía,41,South
+410999,2018,1.51,Andalucía,41,South
+411099,2018,1.49,Andalucía,41,South
+411199,2018,0.97,Andalucía,41,South
+411299,2018,1.31,Andalucía,41,South
+411399,2018,1.14,Andalucía,41,South
+411499,2018,1.44,Andalucía,41,South
+411599,2018,1.51,Andalucía,41,South
+411699,2018,1.56,Andalucía,41,South
+411799,2018,1.41,Andalucía,41,South
+411899,2018,1.39,Andalucía,41,South
+411999,2018,1.26,Andalucía,41,South
+412099,2018,1.49,Andalucía,41,South
+412199,2018,1.31,Andalucía,41,South
+412299,2018,1.22,Andalucía,41,South
+490199,2018,0.96,Castilla y León,49,Center
+490299,2018,0.66,Castilla y León,49,Center
+490399,2018,1.01,Castilla y León,49,Center
+490499,2018,0.73,Castilla y León,49,Center
+490599,2018,1.1,Castilla y León,49,Center
+490699,2018,1.1,Castilla y León,49,Center
+490799,2018,0.8,Castilla y León,49,Center
+500199,2018,0.62,Aragón,50,North-West
+500299,2018,1.15,Aragón,50,North-West
+500399,2018,0.81,Aragón,50,North-West
+500499,2018,1.08,Aragón,50,North-West
+500599,2018,1.25,Aragón,50,North-West
+500699,2018,1.05,Aragón,50,North-West
+500799,2018,1.4,Aragón,50,North-West
+500899,2018,1.25,Aragón,50,North-West
+500999,2018,1.81,Aragón,50,North-West
+501099,2018,1.29,Aragón,50,North-West
+501199,2018,1.63,Aragón,50,North-West
+501299,2018,1.36,Aragón,50,North-West
